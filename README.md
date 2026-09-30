@@ -22,5 +22,5 @@ Terraform code for each cloud.
 | Networking | Done        |
 | Compute    | Done        |
 | IAM        | Done        |
-| Databases  | Not started |
-| Kubernetes | Not started |
+| Databases  | Done        |
+| Kubernetes | Done        |
