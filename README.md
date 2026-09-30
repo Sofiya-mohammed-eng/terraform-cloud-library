@@ -20,7 +20,7 @@ Terraform code for each cloud.
 |------------|-------------|
 | Storage    | Done        |
 | Networking | Done        |
-| Compute    | Not started |
+| Compute    | Done        |
 | IAM        | Not started |
 | Databases  | Not started |
 | Kubernetes | Not started |
