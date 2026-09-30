@@ -24,3 +24,4 @@ Terraform code for each cloud.
 | IAM        | Done        |
 | Databases  | Done        |
 | Kubernetes | Done        |
+| Monitoring | Done        |
