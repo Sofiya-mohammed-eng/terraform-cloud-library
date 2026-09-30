@@ -18,8 +18,8 @@ Terraform code for each cloud.
 
 | Category   | Status      |
 |------------|-------------|
-| Storage    | In progress |
-| Networking | Not started |
+| Storage    | Done        |
+| Networking | Done        |
 | Compute    | Not started |
 | IAM        | Not started |
 | Databases  | Not started |
